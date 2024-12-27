@@ -3,9 +3,7 @@ use colored::*;
 
 fn convert_grade_to_points(grade: &str) -> Option<f32> {
     match grade.to_uppercase().as_str() {
-        "S" => Some(10.0), "A" => Some(9.0), "B" => Some(8.0),
-        "C" => Some(7.0), "D" => Some(6.0), "E" => Some(5.0),
-        "F" | "N" => Some(0.0), _ => None,
+        "S" => Some(10.0), "A" => Some(9.0), "B" => Some(8.0), "C" => Some(7.0), "D" => Some(6.0), "E" => Some(5.0), "F" | "N" => Some(0.0), _ => None,
     }
 }
 
