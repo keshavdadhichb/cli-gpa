@@ -1,0 +1,12 @@
+E:\cli-gpa\target\debug\deps\libcolored-9252d260031b627f.rmeta: C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src/lib.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\color.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\control.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\error.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\style.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\customcolors.rs
+
+E:\cli-gpa\target\debug\deps\libcolored-9252d260031b627f.rlib: C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src/lib.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\color.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\control.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\error.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\style.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\customcolors.rs
+
+E:\cli-gpa\target\debug\deps\colored-9252d260031b627f.d: C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src/lib.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\color.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\control.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\error.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\style.rs C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\customcolors.rs
+
+C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src/lib.rs:
+C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\color.rs:
+C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\control.rs:
+C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\error.rs:
+C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\style.rs:
+C:\Users\Keshav\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.2.0\src\customcolors.rs:

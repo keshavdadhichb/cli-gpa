@@ -1,0 +1,11 @@
+[package]
+name = "cli-top"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "cli-top"
+path = "src/main.rs"
+
+[dependencies]
+colored = { version = "2.0", default-features = false } 
